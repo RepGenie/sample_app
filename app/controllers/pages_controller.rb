@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def home
-  	@title = "Home (embedded)"
+  	@title = "Home"
   end
 
   def contact
